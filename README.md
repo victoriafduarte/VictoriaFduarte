@@ -6,10 +6,10 @@ Iniciando na área de Ciências de Dados e explorando diversas tecnologias.
 
 # 🚀 Experiência
 
-🎓 Tecnólogo em análise e desenvolvimento de sistemas e pós-graduado em Ciências de Dados.
-📖 Me aprimorando em Análise de Dados
-🗺️Rio de Janeiro - Brasil
-📊 Atualmente em projetos pessoais com análise, manipulação de dados e criação de Dashboards.
+- 🎓 Tecnólogo em análise e desenvolvimento de sistemas e pós-graduado em Ciências de Dados.
+- 📖 Me aprimorando em Análise de Dados
+- 🗺️Rio de Janeiro - Brasil
+- 📊 Atualmente em projetos pessoais com análise, manipulação de dados e criação de Dashboards.
 
 
 

@@ -6,7 +6,7 @@ Starting in the area of ​​Data Sciences and exploring different technologies
 
 # 🚀 Expertise
 
-° 🎓 Technologist in systems analysis and development and postgraduate degree in Data Sciences.
+- 🎓 Technologist in systems analysis and development and postgraduate degree in Data Sciences.
 - 📖 Me aprimorando em Análise de Dados 
 - 🗺️ Rio de Janeiro - Brasil
 - 📊 Atualmente em projetos pessoais com análise, manipulação de dados e criação de Dashboards.
